@@ -1,6 +1,6 @@
 {
   "animals": [
-{
+  {
   "id": "tbc by David",
   "name" : "Grumpy",
   "type" : "goat",
@@ -8,6 +8,7 @@
   "age" : "adult", 
   "available" : "true"
   },
+
   {
   "id": "tbc by David",
   "name" : "Devil",
@@ -15,7 +16,24 @@
   "photo" : "goat-2.jpg",
   "age" : "adult", 
   "available" : "true"
-  }
+  },
 
+  {
+  "id": "tbc by David",
+  "name" : "Coolio",
+  "type" : "sheep",
+  "photo" : "sheep-1.jpg",
+  "age" : "juvenile", 
+  "available" : "true"
+  },
+
+  {
+"id": "tbc by David",
+  "name" : "Robaaahto",
+  "type" : "sheep",
+  "photo" : "sheep-2.jpg",
+  "age" : "adult", 
+  "available" : "true"
+  }
 
   ]}
