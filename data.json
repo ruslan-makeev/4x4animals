@@ -1,0 +1,21 @@
+{
+  "animals": [
+{
+  "id": "tbc by David",
+  "name" : "Grumpy",
+  "type" : "goat",
+  "photo" : "goat-1.jpg",
+  "age" : "adult", 
+  "available" : "true"
+  },
+  {
+  "id": "tbc by David",
+  "name" : "Devil",
+  "type" : "goat",
+  "photo" : "goat-2.jpg",
+  "age" : "adult", 
+  "available" : "true"
+  }
+
+
+  ]}
